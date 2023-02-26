@@ -164,7 +164,18 @@ gửi lên web.
 - set pump web, set max web, set min web: Set lại các biến dữ liệu trên web.
 - myMongoDB MYDB: Gửi tình trạng máy bơm lên cloud.
 
+VIII. Tài liệu tham khảo:
 
+- https://drive.google.com/drive/folders/1xglLnX-R-1ZFUTqdpvq0tOl0EkZxNtQ?fbclid=IwAR31dMQ9FQb7EJT88A_6zhJv3FrtxU1QC6Q4YD2dEprn_ne
+UxvOFWbHnLL8
+- https://community.homey.app/t/node-red-a-widget-based-dashboard-working-withhomey-trough-mqtt/18798/432?page=22
+- https://iot.busmap.vn/kham-pha-the-gioi-iot-voi-bsmart-bai-
+0/?fbclid=IwAR32SlbzPt1CGLe4xKp_5v3dP_AeJ1_VVLuAzM43aUfi7jIc8EWpmAOD
+02Y
+- https://blog.unicloud.com.vn/iot/iot-wificonfig/?fbclid=IwAR16vdAb3zeFRLNQ_tm5dV4Dza22OIDIKSdRw6h39CE_TSky7gm
+qCIOAyA0
+- https://vidieukhien.xyz/2018/03/25/esp8266-smartconfig-cau-hinh-wifi-cho-esp-bangdien-thoai-esp-touch-protocal-bai-
+4/?fbclid=IwAR11gCPLgWAy_ByQa3ziIktsdurDLjVoNyr6Iylm7sFJbG6UJPMOlrfiYiI
 
 
 
